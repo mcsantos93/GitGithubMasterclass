@@ -4,4 +4,5 @@ for char in word:
     print(char)
 
 ## Code created by: Marcos Santos ##
-## Today's date July 6th, 2026 ##
+## Updated July 7th, 2026 ##
+## Added from GitHub! ##
